@@ -10,15 +10,15 @@ Fig 8-1: Two types of GRADE indirectness. GRADE=Grading of Recommendations Asses
 
 Over the past 15 years, indirect comparisons occur when two or more interventions are compared through a common comparator rather than through direct head-to-head trials. Network meta-analyses use both direct and indirect evidence to make comparisons between multiple interventions. GRADE focuses on direct comparisons of a single intervention with a single comparator. We will therefore not deal further with indirect comparisons but instead will focus on indirectness related to PICO issues.
 
-<figure><img src=".gitbook/assets/gr1_lrg.jpg" alt=""><figcaption></figcaption></figure>
-
-Fig 8-2: Decision-algorithm for assessing indirectness in core GRADE.
-
 ### 8.2 Two types of indirectness - Indirectness related to PICO issues
 
 GRADE begins with identifying a clinical question of interest and specifying the PICO. We refer to the clinical question of interest as the target PICO.
 
 We define indirectness as a mismatch between the target PICO and the current best evidence (Fig 8-2). Research studies provide direct evidence for the population as enrolled, the intervention and comparison provided or used by the study participants, and outcomes as measured by investigators—the PICO elements in the study as carried out.
+
+<figure><img src=".gitbook/assets/gr1_lrg.jpg" alt=""><figcaption></figcaption></figure>
+
+Fig 8-2: Decision-algorithm for assessing indirectness in core GRADE.
 
 The study as carried out may not be the study as planned. Investigators may have sought a heterogenous population but enrolled only low risk patients, anticipated high adherence to the intervention and found only low adherence, anticipated one standard of care in the comparator but observed another, or planned a long follow-up but found that a funding shortfall necessitated a short follow-up. The intent of the investigators is irrelevant to the GRADE assessors: they are only interested in what investigators carried out and its relation to the target PICO. Mismatch between the direct evidence from the study as carried out and the target PICO can occur in any of the four elements of PICO.
 
@@ -66,7 +66,7 @@ Bearing in mind the possibility of indirect evidence, guideline developers and H
 
 Differences in age groups constitute a common indirectness issue in patients: elderly versus younger people, or children versus adults. For example, in [a guideline](https://pubmed.ncbi.nlm.nih.gov/29280782/) that addressed the management of pancreatitis in children, authors found very limited evidence for antibiotic use in this age group. They therefore conducted a search for evidence from adults, ultimately using the indirect evidence as the basis for their recommendation. Although they did not conduct a formal certainty rating, authors described the evidence as limited, acknowledging decreased certainty associated with indirectness.
 
-#### &#x20;Changes over time&#x20;
+#### Changes over time&#x20;
 
 Target patients may differ in many ways from patients enrolled in research studies. For example, the characteristics of presenting patients may evolve over time, as occurred during the covid-19 pandemic. Casirivimab and imdevimab given in combination and sotrovimab given alone are monoclonal antibodies that bind to the SARS-CoV-2 spike protein, thus neutralising the virus. Randomised controlled trials conducted in 2020 and 2021 showed that both casirivimab and imdevimab combined and sotrovimab alone reduced mortality in patients infected with the circulating virus at that time, motivating World Health Organization recommendations for use of these agents.
 
@@ -84,7 +84,7 @@ Given the very low certainty evidence, the authors sought indirect evidence and 
 
 Interventions studied may differ from the target PICO in several ways, including dose of a drug (higher or lower than the target intervention), duration of administration (shorter or longer), route of administration (parenteral versus oral), or the skill level of providers of interventions such as in educational, surgical, physiotherapy, and psychosocial interventions. Another concerning common source of indirectness for such interventions is that authors may not sufficiently describe the components of the interventions and this failure can preclude their replication. For instance, the details for cardiac rehabilitation were so poorly reported in the literature that surveys of rehabilitation programmes showed that what they implemented in practice differed substantially from what randomised controlled trials had shown to be effective. Inadequate description of the intervention constitutes a reason for rating down for indirectness.
 
-#### &#x20;Non-adherence
+#### Non-adherence
 
 Another common way that trials of interventions differ from the target interventions is non-adherence of patients. Generally, patients and their healthcare providers are interested in the impact of an intervention when used as intended. High levels of non-adherence introduce problematic indirectness and thus compromise the certainty of the evidence. For example, [a randomised controlled trial ](https://pubmed.ncbi.nlm.nih.gov/18441375/)of nortriptyline as an adjunct to nicotine replacement for smoking cessation randomised 901 adults attending a smoking cessation service to nortriptyline or placebo.
 
